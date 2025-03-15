@@ -97,3 +97,10 @@ This project outlines the post-install configuration of the open-source help des
 <img src="https://github.com/user-attachments/assets/d0ae055f-9cd3-4554-8b80-216750053cec" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+### Be sure to leave the settings as default
+<p>
+<img src="https://github.com/user-attachments/assets/2139f5f1-0ded-490b-ba99-ea1c4aad2e14" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
