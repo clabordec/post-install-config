@@ -162,3 +162,30 @@ This project outlines the post-install configuration of the open-source help des
 </p>
 <br />
 
+### For `Jane`, enter her first naem, last name, email and username
+<p>
+<img src="https://github.com/user-attachments/assets/a49f4c64-05fc-4bff-af4b-112c169486c2" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### For `Jane`, set her password to `Password123!`
+<p>
+<img src="https://github.com/user-attachments/assets/272b071a-553d-482b-b4fd-5116b6ae1f32" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Uncheck the `Send the agent a password reset email` checkbox to set the password for the user
+<p>
+<img src="https://github.com/user-attachments/assets/751dfc2a-5595-40b9-b6c0-69710842c25f" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/bcd730a7-fb92-48a5-bdb8-d441c585294b" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Make a secure password then click "Set"
+<p>
+<img src="https://github.com/user-attachments/assets/88176194-598a-4ed3-80fd-d469bd649ec6" width="500" alt="Disk Sanitization Steps"/>
+</p>
+
+
