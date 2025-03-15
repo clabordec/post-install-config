@@ -158,7 +158,7 @@ This project outlines the post-install configuration of the open-source help des
 
 ### Add two new Users: `Jane` and `John`, `Jane` will be added to the SysAdmin dept, and `John` will be added to the Support dept
 <p>
-<img src="https://github.com/user-attachments/assets/d2d58ed9-a2d0-43c8-86ff-5be86d070cd2" width="500" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/1fd279b2-3972-483a-9a72-4b26ac19762e" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
