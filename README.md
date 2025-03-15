@@ -123,4 +123,10 @@ This project outlines the post-install configuration of the open-source help des
 <p>
 <img src="https://github.com/user-attachments/assets/97ba4b04-9cc6-46e0-ad11-a34503358233" width="500" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
+### Create the Teams called `Online Banking`
+<p>
+<img src="https://github.com/user-attachments/assets/f9022502-3d22-468d-82d8-addeeb5f66d4" width="500" alt="Disk Sanitization Steps"/>
+</p>
 
