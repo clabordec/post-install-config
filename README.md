@@ -52,7 +52,6 @@ This project outlines the post-install configuration of the open-source help des
 <p>
 <img src="https://github.com/user-attachments/assets/01b38d9c-7f4b-4857-b849-b36fcf9d8a28" width="500" alt="Disk Sanitization Steps"/>
 </p>
-<br />
 <p>
 <img src="https://github.com/user-attachments/assets/ba0fe77b-7e2b-4094-9fd5-ab7a982d045e" width="500" alt="Disk Sanitization Steps"/>
 </p>
@@ -61,9 +60,6 @@ This project outlines the post-install configuration of the open-source help des
 ### Creat a new role called `SysAdmins`
 <p>
 <img src="https://github.com/user-attachments/assets/d2244503-20f4-4e61-afed-5080c24d458e" width="500" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/e46cebb2-3877-4248-878d-96b19ed51209" width="500" alt="Disk Sanitization Steps"/>
 </p>
 
 ### Be sure to assign the Role with Permissions for both the `Tickets` and `Tasks` categories
@@ -76,7 +72,7 @@ This project outlines the post-install configuration of the open-source help des
 
 ### Add the role
 <p>
-<img src="https://github.com/user-attachments/assets/3612ab64-bb65-4e8d-82a7-c99fc89bf315" width="500" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/e46cebb2-3877-4248-878d-96b19ed51209" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
