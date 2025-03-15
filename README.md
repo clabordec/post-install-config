@@ -83,6 +83,7 @@ This project outlines the post-install configuration of the open-source help des
 
 
 ## Configure Departments
+<p>Admin Panel ---> Agents ---> Departments</p>
 <p>
 <img src="https://github.com/user-attachments/assets/b5033d6c-a146-43a3-bf75-5b463effb45f" width="500" alt="Disk Sanitization Steps"/>
 </p>
@@ -112,4 +113,14 @@ This project outlines the post-install configuration of the open-source help des
 <img src="https://github.com/user-attachments/assets/e3120794-352f-474a-b8b2-970173c80e82" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+
+## Configure Teams
+<p><p>Admin Panel ---> Agents ---> Teams</p></p>
+<p>
+<img src="https://github.com/user-attachments/assets/b5033d6c-a146-43a3-bf75-5b463effb45f" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/97ba4b04-9cc6-46e0-ad11-a34503358233" width="500" alt="Disk Sanitization Steps"/>
+</p>
 
