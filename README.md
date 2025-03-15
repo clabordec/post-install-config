@@ -264,9 +264,22 @@ This project outlines the post-install configuration of the open-source help des
 <p>
 <img src="https://github.com/user-attachments/assets/1fbdeb16-0312-4188-a280-8f30e63c4375" width="500" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+<img src="https://github.com/user-attachments/assets/cce12fd8-9d5a-4cb3-91b2-159428cb19a4" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/f78833d5-6ba8-45dd-9bba-129f326fd8a6" width="500" alt="Disk Sanitization Steps"/>
+</p>
 <br />
 
-![image](https://github.com/user-attachments/assets/cce12fd8-9d5a-4cb3-91b2-159428cb19a4)
+
+## Configure SLA
+<p>Admin ---> Manage ---> SLA</p>
+<p>
+<img src="https://github.com/user-attachments/assets/5a43fbf8-0c6d-4e6c-b8b8-9c95034c6c45" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
 
 
 
