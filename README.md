@@ -196,7 +196,7 @@ This project outlines the post-install configuration of the open-source help des
 </p>
 <br />
 
-### In the Access tab, set the deoartment to `SysAdmins` and the role as the `Supreme Admin`
+### In the Access tab, set the department to `SysAdmins` and the role as the `Supreme Admin`
 <p>
 <img src="https://github.com/user-attachments/assets/67e94ca7-dc9b-4eec-81ed-8840c1566c0e" width="500" alt="Disk Sanitization Steps"/>
 </p>
@@ -216,5 +216,29 @@ This project outlines the post-install configuration of the open-source help des
 ### For `John`, set his password to `Password123!`
 <p>
 <img src="https://github.com/user-attachments/assets/a0763b8a-c355-4e7a-9219-d302357620b0" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Uncheck the `Send the agent a password reset email` checkbox to set the password for the user
+<p>
+<img src="https://github.com/user-attachments/assets/751dfc2a-5595-40b9-b6c0-69710842c25f" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/bcd730a7-fb92-48a5-bdb8-d441c585294b" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Make a secure password then click "Set"
+<p>
+<img src="https://github.com/user-attachments/assets/88176194-598a-4ed3-80fd-d469bd649ec6" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### In the Access tab, set the deoartment to `Support` and the role as the `Supreme Admin`
+<p>
+<img src="https://github.com/user-attachments/assets/67e94ca7-dc9b-4eec-81ed-8840c1566c0e" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/b1b87768-bda1-467c-9995-544433880b38" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <br />
