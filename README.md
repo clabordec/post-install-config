@@ -57,9 +57,9 @@ This project outlines the post-install configuration of the open-source help des
 </p>
 <br />
 
-### Creat a new role called `SysAdmins`
+### Creat a new role called `Supreme Admin`
 <p>
-<img src="https://github.com/user-attachments/assets/d2244503-20f4-4e61-afed-5080c24d458e" width="500" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/681b72d1-654a-4fff-b364-b470a08f6b8a" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -84,6 +84,16 @@ This project outlines the post-install configuration of the open-source help des
 
 ## Configure Departments
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/b5033d6c-a146-43a3-bf75-5b463effb45f" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/d0ae055f-9cd3-4554-8b80-216750053cec" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
+### Add the department named `SysAdmins`
+<p>
+<img src="https://github.com/user-attachments/assets/d0ae055f-9cd3-4554-8b80-216750053cec" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <br />
