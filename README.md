@@ -299,6 +299,19 @@ This project outlines the post-install configuration of the open-source help des
 <br />
 
 
+## Configure Help Topics
+<p>Admin ---> Manage ---> Help Topics</p>
+<p>
+<img src="https://github.com/user-attachments/assets/2bcd5df4-2903-4bd9-ac65-637ced259ad8" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 
-
+### Create categories for easy access when users are reporting an issue
+<p>
+<img src="https://github.com/user-attachments/assets/4abfa45a-c4ef-42e0-b2d7-ebfbaf6d9890" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p>
+<img src="https://github.com/user-attachments/assets/4648a1dd-c342-4f0e-8351-736d0453cae0" width="500" alt="Disk Sanitization Steps"/>
+</p>
 
