@@ -39,6 +39,10 @@ This project outlines the post-install configuration of the open-source help des
 <p>
 <img src="https://github.com/user-attachments/assets/129ee379-54ad-4de7-a10b-9cadb71da8d2" width="500" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+<img src="https://github.com/user-attachments/assets/a95ce5a6-5985-4c0d-b2dc-e98c05ab12fd" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 
 ### Configure Roles (for grouping permissions)
 <p>Admin Panel ---> Agents ---> Roles</p>
