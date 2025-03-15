@@ -236,9 +236,28 @@ This project outlines the post-install configuration of the open-source help des
 
 ### In the Access tab, set the deoartment to `Support` and the role as the `Supreme Admin`
 <p>
-<img src="https://github.com/user-attachments/assets/67e94ca7-dc9b-4eec-81ed-8840c1566c0e" width="500" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 <img src="https://github.com/user-attachments/assets/b1b87768-bda1-467c-9995-544433880b38" width="500" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+<img src="https://github.com/user-attachments/assets/a4e58d2b-1a25-452f-b0ae-2b97fa76422c" width="500" alt="Disk Sanitization Steps"/>
+</p>
 <br />
+
+
+## Configure Users
+<p>Agent Panel ---> Users ---> Add New</p>
+<p>
+<img src="https://github.com/user-attachments/assets/9d8fdd80-eb07-4889-a833-dd8c2e7592c1" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Add new users: `Karen` and `Ken`
+<p>
+<img src="https://github.com/user-attachments/assets/6aa32c3d-1a53-4fa3-8f38-6c5413e7e1d7" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/de9a6692-9790-437a-adea-3edf3c6b9f0c" width="500" alt="Disk Sanitization Steps"/>
+</p>
+
+
+
