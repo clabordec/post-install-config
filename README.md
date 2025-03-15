@@ -8,7 +8,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+- ### [Video Walkthrough](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,11 +22,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles: Assign certain roles to for certain users
+- Configure Departments: Add the necessary departments for certain users and agents
+- Configure Teams: Pull Agents from different Departments
+- Configure Agents: The workers, basically the people that help solve the tickets
+- Configure Users: The customers/end-users
+- Configure SLA: Service Level Agreement that is a formal contract between the service level provider and the client
+- Configure Help Top
+
 
 <h2>Configuration Steps</h2>
 
