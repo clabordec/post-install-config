@@ -61,6 +61,7 @@ This project outlines the post-install configuration of the open-source help des
 <p>
 <img src="https://github.com/user-attachments/assets/d2244503-20f4-4e61-afed-5080c24d458e" width="500" alt="Disk Sanitization Steps"/>
 </p>
+<br />
 
 ### Be sure to assign the Role with Permissions for both the `Tickets` and `Tasks` categories
 <p>
@@ -69,6 +70,7 @@ This project outlines the post-install configuration of the open-source help des
 <p>
 <img src="https://github.com/user-attachments/assets/93bf808a-159a-4086-814a-6fd95c49d5d5" width="500" alt="Disk Sanitization Steps"/>
 </p>
+<br />
 
 ### Add the role
 <p>
@@ -77,8 +79,8 @@ This project outlines the post-install configuration of the open-source help des
 <p>
 <img src="https://github.com/user-attachments/assets/934c131d-db08-44f1-a52c-b8b487f7e104" width="500" alt="Disk Sanitization Steps"/>
 </p>
-
 <br />
+
 
 ## Configure Departments
 <p>
