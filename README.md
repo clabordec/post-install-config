@@ -134,3 +134,31 @@ This project outlines the post-install configuration of the open-source help des
 </p>
 <br />
 
+
+## Allow anyone to create tickets
+<p>Admin Panel ---> Settings ---> User Settings</p>
+<p>
+<img src="https://github.com/user-attachments/assets/fcc5cc99-bf93-4e66-94bb-ec4774748971" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Check the option `Require registration and login to create tickets`, then save the changes
+<p>
+<img src="https://github.com/user-attachments/assets/0f9b70cc-7e40-4437-b229-d0d160000517" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
+## Configure Agents
+<p>Admin Panel ---> Agents ---> Add New</p>
+<p>
+<img src="https://github.com/user-attachments/assets/ff80b773-32a2-4677-b4c9-440c62762892" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Add two new Users: `Jane` and `John`, `Jane` will be added to the SysAdmin dept, and `John` will be added to the Support dept
+<p>
+<img src="https://github.com/user-attachments/assets/d2d58ed9-a2d0-43c8-86ff-5be86d070cd2" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
