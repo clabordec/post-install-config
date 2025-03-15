@@ -102,5 +102,14 @@ This project outlines the post-install configuration of the open-source help des
 <p>
 <img src="https://github.com/user-attachments/assets/2139f5f1-0ded-490b-ba99-ea1c4aad2e14" width="500" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+<img src="https://github.com/user-attachments/assets/6a4ff701-d235-41cd-ae53-4809fc584cc2" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Create the department
+<p>
+<img src="https://github.com/user-attachments/assets/e3120794-352f-474a-b8b2-970173c80e82" width="500" alt="Disk Sanitization Steps"/>
+</p>
 <br />
 
