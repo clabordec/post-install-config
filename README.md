@@ -22,13 +22,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Configure Roles: Assign certain roles to for certain users
-- Configure Departments: Add the necessary departments for certain users and agents
-- Configure Teams: Pull Agents from different Departments
-- Configure Agents: The workers, basically the people that help solve the tickets
-- Configure Users: The customers/end-users
-- Configure SLA: Service Level Agreement that is a formal contract between the service level provider and the client
-- Configure Help Top
+- <b>Configure Roles</b>: Assign certain roles to for certain users
+- <b>Configure Departments</b>: Add the necessary departments for certain users and agents
+- <b>Configure Teams</b>: Pull Agents from different Departments
+- <b>Configure Agents</b>: The workers, basically the people that help solve the tickets
+- <b>Configure Users</b>: The customers/end-users
+- <b>Configure SLA</b>: Service Level Agreement that is a formal contract between the service level provider and the client
+- <b>Configure Help Topics</b>: Categories for issues, helps users choose an issue that is related on their end
 
 
 <h2>Configuration Steps</h2>
