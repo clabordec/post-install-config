@@ -200,5 +200,21 @@ This project outlines the post-install configuration of the open-source help des
 <p>
 <img src="https://github.com/user-attachments/assets/67e94ca7-dc9b-4eec-81ed-8840c1566c0e" width="500" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+<img src="https://github.com/user-attachments/assets/4df35215-774b-4394-bef2-5a210799d6fb" width="500" alt="Disk Sanitization Steps"/>
+</p>
 <br />
 
+
+## John's Access
+### For `John`, enter his first naem, last name, email and username
+<p>
+<img src="https://github.com/user-attachments/assets/73bf7d55-1b7c-49eb-9b13-4ec70d5c9c58" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### For `John`, set his password to `Password123!`
+<p>
+<img src="https://github.com/user-attachments/assets/a0763b8a-c355-4e7a-9219-d302357620b0" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
