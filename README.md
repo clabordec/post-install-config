@@ -33,9 +33,9 @@ This project outlines the post-install configuration of the open-source help des
 
 <h2>Configuration Steps</h2>
 
-## osTicket Configuration
+# osTicket Configuration
 
-### Log into the Admin/Analyst panel with the credentials created for osTicket
+## Log into the Admin/Analyst panel with the credentials created for osTicket
 <p>
 <img src="https://github.com/user-attachments/assets/129ee379-54ad-4de7-a10b-9cadb71da8d2" width="500" alt="Disk Sanitization Steps"/>
 </p>
@@ -44,25 +44,44 @@ This project outlines the post-install configuration of the open-source help des
 </p>
 <br />
 
-### Configure Roles (for grouping permissions)
+## Configure Roles (for grouping permissions)
 <p>Admin Panel ---> Agents ---> Roles</p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/b5033d6c-a146-43a3-bf75-5b463effb45f" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/01b38d9c-7f4b-4857-b849-b36fcf9d8a28" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p>
+<img src="https://github.com/user-attachments/assets/ba0fe77b-7e2b-4094-9fd5-ab7a982d045e" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+### Creat a new role called `SysAdmins`
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/d2244503-20f4-4e61-afed-5080c24d458e" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://github.com/user-attachments/assets/e46cebb2-3877-4248-878d-96b19ed51209" width="500" alt="Disk Sanitization Steps"/>
+</p>
+
+### Be sure to assign the Role with Permissions for both the `Tickets` and `Tasks` categories
+<p>
+<img src="https://github.com/user-attachments/assets/3612ab64-bb65-4e8d-82a7-c99fc89bf315" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/93bf808a-159a-4086-814a-6fd95c49d5d5" width="500" alt="Disk Sanitization Steps"/>
+</p>
+
+### Add the role
+<p>
+<img src="https://github.com/user-attachments/assets/3612ab64-bb65-4e8d-82a7-c99fc89bf315" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+## Configure Departments
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
