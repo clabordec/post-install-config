@@ -288,13 +288,13 @@ This project outlines the post-install configuration of the open-source help des
 
 ### Sev-B: Grace Period will be set to 4 hours, major impact to production
 <p>
-<img src="https://github.com/user-attachments/assets/7ff4ae16-1e78-401e-8252-f29946fa1a95" width="500" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/b4040371-92d3-47bf-961c-3d9141698f3c" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 ### Sev-C: Grace Period will be set to 8 hours, little impact to production
 <p>
-<img src="https://github.com/user-attachments/assets/7ff4ae16-1e78-401e-8252-f29946fa1a95" width="500" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/1862541d-2254-4990-afe1-06243fde492f" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
