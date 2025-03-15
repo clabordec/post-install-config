@@ -162,6 +162,7 @@ This project outlines the post-install configuration of the open-source help des
 </p>
 <br />
 
+## Jane's Access
 ### For `Jane`, enter her first naem, last name, email and username
 <p>
 <img src="https://github.com/user-attachments/assets/a49f4c64-05fc-4bff-af4b-112c169486c2" width="500" alt="Disk Sanitization Steps"/>
@@ -192,6 +193,12 @@ This project outlines the post-install configuration of the open-source help des
 ### Make a secure password then click "Set"
 <p>
 <img src="https://github.com/user-attachments/assets/88176194-598a-4ed3-80fd-d469bd649ec6" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### In the Access tab, set the deoartment to `SysAdmins` and the role as the `Supreme Admin`
+<p>
+<img src="https://github.com/user-attachments/assets/67e94ca7-dc9b-4eec-81ed-8840c1566c0e" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
