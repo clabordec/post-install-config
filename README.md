@@ -163,7 +163,7 @@ This project outlines the post-install configuration of the open-source help des
 <br />
 
 ## Jane's Access
-### For `Jane`, enter her first naem, last name, email and username
+### For `Jane`, enter her first name, last name, email and username
 <p>
 <img src="https://github.com/user-attachments/assets/a49f4c64-05fc-4bff-af4b-112c169486c2" width="500" alt="Disk Sanitization Steps"/>
 </p>
@@ -207,7 +207,7 @@ This project outlines the post-install configuration of the open-source help des
 
 
 ## John's Access
-### For `John`, enter his first naem, last name, email and username
+### For `John`, enter his first name, last name, email and username
 <p>
 <img src="https://github.com/user-attachments/assets/73bf7d55-1b7c-49eb-9b13-4ec70d5c9c58" width="500" alt="Disk Sanitization Steps"/>
 </p>
