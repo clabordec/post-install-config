@@ -125,7 +125,7 @@ This project outlines the post-install configuration of the open-source help des
 </p>
 <br />
 
-### Create the Teams called `Online Banking`
+### Create the Team called `Online Banking`
 <p>
 <img src="https://github.com/user-attachments/assets/f9022502-3d22-468d-82d8-addeeb5f66d4" width="500" alt="Disk Sanitization Steps"/>
 </p>
