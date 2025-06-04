@@ -30,11 +30,10 @@ This project outlines the post-install configuration of the open-source help des
 <br>
 
 
-<h2>Configuration Steps</h2>
+<h1>Configuration Steps</h1>
 
-# osTicket Configuration
-
-## Log into the Admin/Analyst panel with the credentials created for osTicket
+## osTicket Configuration
+### Log into the Admin/Analyst panel with the credentials created for osTicket
 <p>
 <img src="https://github.com/user-attachments/assets/129ee379-54ad-4de7-a10b-9cadb71da8d2" width="500" alt="Disk Sanitization Steps"/>
 </p>
@@ -43,7 +42,7 @@ This project outlines the post-install configuration of the open-source help des
 </p>
 <br />
 
-## Configure Roles (for grouping permissions)
+### Configure Roles (for grouping permissions)
 <p>Admin Panel ---> Agents ---> Roles</p>
 <p>
 <img src="https://github.com/user-attachments/assets/b5033d6c-a146-43a3-bf75-5b463effb45f" width="500" alt="Disk Sanitization Steps"/>
