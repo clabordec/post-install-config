@@ -16,10 +16,6 @@ This project outlines the post-install configuration of the open-source help des
 
 - Windows 10</b> (21H2)
 
-
-<br>
-
-
 <h2>Post-Install Configuration Objectives</h2>
 
 - <b>Configure Roles</b>: Assign certain roles to for certain users
@@ -29,6 +25,9 @@ This project outlines the post-install configuration of the open-source help des
 - <b>Configure Users</b>: The customers/end-users
 - <b>Configure SLA</b>: Service Level Agreement that is a formal contract between the service level provider and the client
 - <b>Configure Help Topics</b>: Categories for issues, helps users choose an issue that is related on their end
+
+
+<br>
 
 
 <h2>Configuration Steps</h2>
